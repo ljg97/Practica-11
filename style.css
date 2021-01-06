@@ -1,0 +1,83 @@
+body{
+    font-family: sans-serif;
+}
+header{
+    background-color: black;
+    text-align: center;
+    color: chocolate;
+}
+nav.NavInd{
+    background-color: black;
+    text-align: center;
+}
+img.escudo{
+    padding-top: 40px;
+    float: left;
+}
+div.hist{
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: justify;
+    background-color: black;
+    color: chocolate;
+}
+div.f{
+    text-align: center;
+}
+#inpN{
+    margin-left: 20px;
+}
+input.na{ 
+    height: 40px;
+    width: 432px;
+    margin-bottom: 15px;
+}
+input.n{
+    height: 40px;
+    width: 200px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 20px;
+}
+select.n{
+    height: 45px;
+    width: 208px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 20px;
+}
+input.fpv{
+    margin-left: 25px;
+    margin-top: 15px;
+}
+input.fcc{
+    margin-left: 25px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+span.pv{
+    font-weight: bold;
+}
+input.ent{
+    margin-top: 20px;
+    background-color: chocolate;
+    padding-left: 75px;
+    padding-right: 75px;
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 1rem;
+    background-color: black;
+    text-align: center;
+    color: chocolate;      
+}
+#page-container {
+    position: relative;
+    min-height: 100vh;
+}  
+#content-wrap {
+    padding-bottom: 2.5rem;    /* Footer height */
+}
